@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+<html>
+<head><!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title> Nozioni da ricordare </title>
+    <style> body {
+        background-image: url(https://previews.123rf.com/images/nexusplexus/nexusplexus1308/nexusplexus130800615/21247292-in-bianco-immagine-di-sfondo-per-la-pubblicit%C3%A0-di-testo-luogo.jpg);
+        text-align: center;
+        font-family:'Times New Roman', Times, serif;
+        font-variant: box-shadow: 0 5px 20px rgba(0,0,0,.05);
+    }
+</Style>
+
+
+<style>
+    h2{color:rgb(179, 51, 51);
+        font-size: 75px;
+        width: 720px;
+        text-align: center;
+        margin: 40;
+    }
+    </style>   
+
+    <style>
+        h1{color:rgb(27, 0, 100);
+        text-align: center;
+        font-size:xx-large;
+        font-style:oblique;
+        font-weight: ;
+        }
+
+        </style>
+
+        <style>
+            div {color:rgb(0, 0, 0)
+            }
+
+            </style>
+
+            <style>
+
+            #LISTE {
+                color:darkorange;
+                font-style: oblique;
+            }
+
+            </style>
+<style>
+
+
+
+</style>
+            <style>
+                a {
+                    color:red;
+                    font-size: larger;
+                    font-style: oblique;
+                }
+                </style>
+        <style>
+h3 {
+    color:rgb(225, 65, 214);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+        
+        </style>
+        
+    <h1> Nozioni da ricordare </h1>
+    
+     <h2> <section> <p id="LISTE"> HTML E CSS </p> </section> </h2>
+
+        
+        
+
+    <style>
+
+     
+        
+
+            <a href="#immagine">Figura in fondo alla pagina </a>
+
+
+            <style>
+                div > b {
+                    color:rgb(249, 15, 167);
+                    font-style: italic;
+                }
+</style>
+
+<div style="text-decoration: underline;font-style: oblique;"> “Gli insegnamenti più preziosi li troviamo nella semplicità del quotidiano. Non abbiamo bisogno di andare chissà dove per incontrare persone di infinita saggezza. Ciò che occorre è avere un animo benevolo e curioso, per cogliere, da persone semplici e umili, &nbsp;preziosi consigli &nbsp;dal valore inestimabile".  </div>
+<aside style="font-style: italic;font-weight: 700;"> Michele Acanfora 2000 &copy;</aside> 
+
+
+
+<style>
+    a {text-align: center;}
+    </style>
+<a href="https://www.coursera.org/learn/html-css-javascript-for-web-developers/assignment-submission/oIT2I/optional-practice-quiz" target="_blank" title= Coursera link> Link per raggiungere il sito coursera</a>
+
+
+
+<section>
+<ul>
+    <li><a href="#section 1">SEZIONE 1 </a></li>
+    <li><a href="#section 2">SEZIONE 2</a></li>
+    <li><a href="#section 3">SEZIONE 3</a></li>
+    <li><a href="#section 4">IMMAGINE</a></li>
+   
+    </ul>
+    </section>
+
+    <style>
+        article > a {
+            color:aquamarine; }
+        
+        </style>
+<style>
+
+.highlight {
+    color:blueviolet;
+    background-color:yellow;
+}
+</style>
+
+    <section id="section 1">
+        <h3 class="highlight"> SEZIONE 1 </h3>
+        <p>"In un mondo caratterizzato da una continua e incessante evoluzione, in cui le scelte individuali si intrecciano con quelle collettive, e dove le circostanze, talvolta imprevedibili e altre volte determinabili solo attraverso un'attenta riflessione sul passato, giocano un ruolo cruciale nel definire non solo la direzione delle nostre vite, ma anche quella delle intere società, diventa sempre più evidente come l'abilità di adattarsi ai cambiamenti, pur mantenendo saldo il senso della propria identità, e la capacità di riconoscere, tra le molteplici sfide e difficoltà, le opportunità nascoste che esse possono offrire, sia non solo una risorsa fondamentale per il benessere individuale, ma anche un aspetto essenziale per contribuire a costruire un futuro migliore, dove la solidarietà, l'inclusione e il rispetto reciproco possano prevalere su egoismi e conflitti, e dove ogni persona, indipendentemente dalle sue origini, dalle sue convinzioni o dalla sua posizione sociale, possa sentirsi parte integrante di una comunità globale che lavora insieme per il progresso e il miglioramento di tutti.".</p>
+        </section>
+        
+        <section id="section 2">
+            <h3 class="highlight"> SEZIONE 2 </h3>
+            <p>"Nel momento in cui ci fermiamo a riflettere sulla complessità e sull'intreccio di fattori che determinano la nostra esistenza, è impossibile non rendersi conto di quanto, per ciascuna delle scelte che compiamo, anche quelle che ci sembrano più banali e di poco conto, esista una rete invisibile di cause ed effetti che si propagano nel tempo e nello spazio, influenzando non solo la nostra vita, ma anche quella delle persone che ci circondano e, a un livello ancora più ampio, il destino di intere generazioni future, tanto da rendere difficile, se non addirittura impossibile, prevedere con esattezza le conseguenze delle nostre azioni, che a volte, come in un delicato equilibrio, possono essere determinanti per la formazione di una realtà che, pur sembrando frutto di un insieme di eventi casuali e non pianificati, è in realtà il risultato di una concatenazione di scelte, pensieri, emozioni e situazioni che si sono sovrapposte, influenzando il nostro cammino, ma anche quello di tutti coloro che, nel corso della storia e della vita quotidiana, sono entrati in contatto con noi, spingendoci così a prendere consapevolezza della nostra responsabilità, della nostra capacità di impattare, in modo tanto positivo quanto negativo, sul mondo che ci circonda, e della necessità, quindi, di agire con maggiore consapevolezza e attenzione, cercando di contribuire, per quanto possibile, alla costruzione di un futuro in cui le relazioni umane possano basarsi su principi di giustizia, equità, e rispetto reciproco, non solo nei confronti degli altri esseri umani, ma anche nei confronti dell'ambiente e di tutte le forme di vita che condividono con noi questo fragile e meraviglioso pianeta."</p>
+            </section>
+
+            <section id="section 3">
+                <h3 class="highlight"> SEZIONE 2 </h3>
+                <p>"Quando ci addentriamo nei meandri della nostra esistenza, cercando di comprendere il senso più profondo delle nostre azioni e delle scelte che, spesso inconsapevolmente, prendiamo ogni giorno, non possiamo fare a meno di riflettere su quanto ogni decisione, anche la più insignificante e quotidiana, possa avere ripercussioni inaspettate, in un gioco di cause ed effetti che si intrecciano e si ramificano come un albero la cui crescita non è mai lineare, ma che si sviluppa in direzioni impreviste, portandoci talvolta su strade che mai avremmo immaginato, influenzando non solo il nostro destino individuale, ma anche quello di coloro che ci stanno vicino, che con noi condividono sogni, paure, speranze e sfide quotidiane, e in qualche misura, anche il destino dell'intero mondo, che sembra essere sempre più connesso, come se, in un'era di globalizzazione accelerata e comunicazione immediata, ogni nostro pensiero, parola o azione, anche quella che ci appare più insignificante, possa avere un impatto che si propaga attraverso il tempo e lo spazio, modificando, nel bene e nel male, le dinamiche sociali, economiche e culturali di intere nazioni, e influenzando il corso degli eventi storici, facendoci rendere conto di quanto, a volte, la nostra percezione della realtà sia limitata dalla nostra visione circoscritta, mentre in realtà, ogni nostro atto e ogni nostra scelta, per quanto piccola, è parte di un disegno complesso e interconnesso che travalica la nostra portata e che, sebbene spesso ci sfugga, contribuisce a creare la trama infinita di una storia che non riguarda solo noi, ma l'intero ecosistema umano e naturale, il quale, sebbene minacciato da conflitti, disuguaglianze e crisi ambientali, porta in sé ancora la speranza di un cambiamento positivo che potrebbe, se perseguito con impegno e coscienza, dare vita a un futuro in cui la pace, la giustizia e la solidarietà possano prevalere, non solo tra gli esseri umani, ma anche nei confronti della Terra che ci ospita, e di tutte le forme di vita che, insieme a noi, compongono l'incredibile tessuto dell'esistenza."</p>
+                </section>
+
+
+                <p> <section id="section 4"> <img src="https://media.istockphoto.com/id/1367357589/it/foto/cielo-rosso-a-forma-di-cuore-al-tramonto-bellissimo-paesaggio-con-fiori-adoro-lo-sfondo-con-lo.jpg?s=612x612&w=0&k=20&c=6Kg0qxN65TrVE2jenTslGJmn_rnrx9d1d1A1UV91K58= "weidth=640 lenght=480> </p>
+
+
+
+        <p> <section id="immagine"> <img src="https://staticgeopop.akamaized.net/wp-content/uploads/sites/32/2024/04/intelligenza-artificiale-ruba-opere-arte-immagini.jpg" weidth="700" lenght="540"> </p> </section>
+        <a href="#LISTE"> TORNARE AD INIZIO PAGINA </a> 
+
+<style>
+    header li {
+        list style:none;
+    }
+    a:link, a:visited {
+        text-decoration: none;
+        background-color: green;
+        border:1xp solid blue;
+        color:black;
+        display:block;
+        text-align: center;
+        margin-bottom:1px ;
+    width:200px;
+    }
+    </style>
+
+    <style>
+        a:hover, a:active {
+            background-color: red;
+            color:purple;
+            text-align: center;
+            font-weight: 800;
+        }
+</style>
+
+<section>
+    <div>DIV 1</div>
+    <div>DIV 2</div>
+    <div>DIV 3</div>
+    <div>DIV 4</div>
+    <div>DIV 5</div>
+    <div>DIV 6</div>
+    <div>DIV 7</div>
+    </section>
+
+    <style>
+    section div:nth-child(odd)
+{ background-color:rgb(230, 4, 4);
+}
+
+
+
+</style>
+<style>
+#immagine {
+    background-color: rgb(39, 163, 204);
+    border:0cap solid black; margin:40px;
+}
+
+</Style>
+<div id="bg" style="width: 500px;height:500px">“La ricchezza, la bellezza, tutto si può perdere, ma la gioia che hai nel cuore può essere soltanto offuscata: per tutta la vita tornerà a renderti felice. Prova, una volta che ti senti solo e infelice o di cattivo umore, a guardare fuori quando il tempo è cosí bello. Non le case e i tetti, ma il cielo. Finché potrai guardare il cielo senza timori, saprai di essere puro dentro e che tornerai a essere felice.” </div>
+<style>
+#bg {
+    width=500px;
+    height:500px;
+    background: url(https://m.media-amazon.com/images/I/51Q2WaVfosL._AC_UF1000,1000_QL80_.jpg) no-repeat center; 
+}
+</style>
+
+
+
+
+<style>
+div{
+  
+    padding: 10px;
+}
+
+p{
+    width:45%;
+   height:auto;
+    margin-right:10px}
+
+    #p1 {background-color: yellow; float:left
+    }
+
+    #p2 { background-color: lightblue;float:right
+    }
+
+section { clear:both}
+</style>
+</head>
+<body>
+
+<h1> Non so cosa scrivere</h1>
+<div>
+<p id="p1">  In questa lezione parleremo del posizionamento degli elementi facendoli fluttuare. Sapere come far fluttuare correttamente gli elementi è un'abilità essenziale, in parte perché la maggior parte delle interfacce utente odierne, quelle web, sono realizzate facendo fluttuare gli elementi. In effetti, entro la fine di questa lezione, creeremo un design flessibile a due colonne in cui le colonne saranno flessibili man mano che espandiamo e contrattiamo il browser. Passiamo quindi all'editor di codice e vediamo come funziona. Ok, quindi siamo in sublime text e stiamo guardando il file chiamato floating prima di quell'HTML. Quindi esaminiamo rapidamente la struttura di questo documento HTML. Abbiamo qui il nostro normale h1 solo per annunciare di cosa si tratta, e poi abbiamo un div con quattro tag di paragrafo e un tag di sezione con del testo all'interno, e i tag di paragrafo ID p1, p2, p3, p4. Se date un'occhiata alla nostra sezione div, abbiamo dato uno stile al tag div, in modo che lo sfondo sia di un certo colore> </p>
+<p id="p2">cco i riquadri a quattro paragrafi che avevamo. Ok, andiamo avanti e spostiamo la casella del primo paragrafo verso destra. Diremo float: right, e procederemo ad aggiornare la pagina, e vedrete che il riquadro è saltato completamente verso il bordo superiore destro dell'elemento che lo contiene. Ora, un paio di cose veloci da notare subito. Innanzitutto, potete vedere che gli altri si sono spostati verso l'alto come se la scatola marrone rossiccio non ci fosse più. E il motivo per cui ciò accade è che quando fate fluttuare gli elementi, il browser li esclude dal normale flusso di documenti. Questo è il motivo per cui il riquadro del secondo paragrafo si sposta nella posizione originale del primo, perché per quanto riguarda il normale flusso di documenti, quel punto è diventato vuoto. La seconda cosa da notare è che, anche se ognuna di queste caselle di paragrafi è circondata da un margine, come puoi vedere che c'è un margine tra ognuna di esse proprio qui, quel margine collassa come abbiamo visto prima quando tocca il margine di un altro elemento. Tuttavia, quando si tratta di elementi fluttuanti, i margini non collassano mai</P>
+
+</div>
+
+
+
+
+</body>
